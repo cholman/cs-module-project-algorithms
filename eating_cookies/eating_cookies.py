@@ -4,7 +4,6 @@ Returns: an integer
 '''
 def eating_cookies(n, cache=None):
     # Your code here
-    print(n)
     if n == 0:
         return 1
     elif n < 0:
